@@ -1,0 +1,6 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> gcc .\set01\problem06.c       
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> ./a.exe
+Enter three numbers: 12
+2
+3
+The largest number is: 12
