@@ -1,0 +1,5 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> cd "c:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set01\" ; if ($?) { gcc problem02.c -o problem02 } ; if ($?) { .\problem02 }
+Enter the first number: 12
+Enter the second number: 24
+The sum of 12 and 24 is: 36
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set01> 
