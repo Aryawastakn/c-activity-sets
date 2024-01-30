@@ -1,0 +1,10 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> cd "c:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set01\" ; if ($?) { gcc problem08.c -o problem08 } ; if ($?) { .\problem
+08 }
+Enter the size of the array: 3
+Enter 3 different numbers:
+1
+2
+3
+Entered numbers: 1 2 3 
+Sum of the entered numbers: 6
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set01>
