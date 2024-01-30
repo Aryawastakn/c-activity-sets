@@ -1,0 +1,5 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> gcc .\set01\problem03.c       
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> ./a.exe
+Enter a number: 12
+Enter a number: 2
+The sum of 12 and 2 is 14
