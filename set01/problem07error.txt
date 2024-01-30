@@ -1,0 +1,5 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> gcc .\set01\problem07.c       
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> ./a.exe
+Enter the value of n: 3
+The sum of all natural numbers up to 3 is: 6
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets>
