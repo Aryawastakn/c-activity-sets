@@ -1,0 +1,8 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> gcc .\set01\problem10.c
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> ./a.exe
+Enter the first string
+hello
+Enter the second string
+hellw
+result is 2
+hellw is greater than hello
