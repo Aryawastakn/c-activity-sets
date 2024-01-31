@@ -1,0 +1,4 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set01> gcc .\problem09.c
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set01> ./a.exe
+Enter a number: 49
+Square root of 49.00 is approximately 7.0000
