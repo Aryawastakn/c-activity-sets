@@ -1,0 +1,14 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> gcc .\set01\problem12.c  
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> ./a.exe
+Enter the number of values: 3
+Complex number 1:
+Enter the real part: 2
+Enter the imaginary part: 3
+Complex number 2:
+Enter the real part: 4
+Enter the imaginary part: 5
+Complex number 3:
+Enter the real part: 6
+Enter the imaginary part: 7
+Sum of 3 complex numbers:
+(2.00 + 3.00i) + (4.00 + 5.00i) + (6.00 + 7.00i) = (12.00 + 15.00i)
