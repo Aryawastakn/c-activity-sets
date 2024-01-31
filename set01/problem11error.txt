@@ -1,0 +1,13 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> gcc .\set01\problem11.c
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> ./a.exe
+Enter the Real part of the number: 
+2 
+Enter the Imaginary part of the number: 
+3
+Enter the Real part of the number: 
+4
+Enter the Imaginary part of the number: 
+5
+C1 is 2.000000 + 3.000000i
+C2 is 4.000000 + 5.000000i
+The sum of the two complex No's is: 6.000000 + 8.000000i
