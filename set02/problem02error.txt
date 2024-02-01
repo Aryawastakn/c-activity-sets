@@ -1,0 +1,10 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02> gcc .\problem02.c       
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02> ./a.exe
+Enter the length of a side: 5
+Enter the length of a side: 4
+Enter the length of a side: 5
+
+Side 1: 5
+Side 2: 4
+Side 3: 5
+The triangle is not Scalene.
