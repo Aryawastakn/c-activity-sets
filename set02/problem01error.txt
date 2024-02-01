@@ -1,0 +1,7 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> cd "c:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02\" ; if ($?) { gcc problem01.c -o problem01 } ; if ($?) { .\problem01 }
+Enter the base of the triangle: 1
+Enter the height of the triangle: 2
+
+Base: 1.00
+Height: 2.00
+Area of the triangle: 1.00
