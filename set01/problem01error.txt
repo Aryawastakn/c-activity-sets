@@ -1,0 +1,2 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> cd "c:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set01\" ; if ($?) { gcc problem01.c -o problem01 } ; if ($?) { .\problem01 }
+Arya shrestha
