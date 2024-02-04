@@ -20,6 +20,7 @@ int main()
 }
 Complex input_complex()
 {
+   
     Complex C;
     printf("Enter the Real part of the number: \n");
     scanf("%f",&C.real);
