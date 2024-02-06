@@ -1,0 +1,5 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02> cd "c:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02\" ; if ($?) { gcc problem03.c -o problem03 } ; if ($?) { .\problem03 }
+Enter a number: 8
+
+Number: 8
+The number is a Composite number.
