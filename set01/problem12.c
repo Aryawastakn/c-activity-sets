@@ -34,6 +34,7 @@ Complex input_complex()
     Complex c;
     printf("Enter the real part: ");
     scanf("%f", &c.real);
+    
     printf("Enter the imaginary part: ");
     scanf("%f", &c.img);
     return c;
@@ -50,6 +51,7 @@ Complex add(Complex a, Complex b)
 {
     Complex res;
     res.real = a.real + b.real;
+   
     res.img = a.img + b.img;
     return res;
 }
