@@ -1,0 +1,8 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> cd "c:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02\" ; if ($?) { gcc problem04.c -o problem04 } ; if ($?) { .\problem04 }
+Enter the size of the array: 5
+Enter the array elements: 1
+2
+7
+8
+12
+Sum of composite numbers in the array is: 20
