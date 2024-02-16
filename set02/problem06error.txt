@@ -1,0 +1,3 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02> cd "c:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02\" ; if ($?) { gcc problem06.c -o problem06 } ; if ($?) { .\problem06 }
+Enter a string: hello
+Reversed string: olleh
