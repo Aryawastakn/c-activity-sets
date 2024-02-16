@@ -1,0 +1,4 @@
+PS C:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets> cd "c:\Users\Arya shrestha\Pictures\psc-01\c-activity-sets\set02\" ; if ($?) { gcc problem05.c -o problem05 } ; if ($?) { .\problem05 }
+Enter a number: 12
+Enter a number: 16
+the GCD of 12 and 16 is 4/n
