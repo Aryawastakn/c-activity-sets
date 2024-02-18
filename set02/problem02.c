@@ -15,9 +15,7 @@ int main()
     side3 = input_side();
 
     isscalene = check_scalene(side1, side2, side3);
-
     output(side1, side2, side3, isscalene);
-
     return 0;
 }
 
@@ -32,6 +30,7 @@ int input_side()
 
 int check_scalene(int a, int b, int c) 
 {
+   
     if (a != b && b != c && a != c) 
     {
         return 1;  
