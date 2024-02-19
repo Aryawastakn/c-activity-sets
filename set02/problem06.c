@@ -13,7 +13,6 @@ int main()
     input_string(input_str);
     str_reverse(input_str, reversed_str);
     output(input_str, reversed_str);
-
     return 0;
 }
 
