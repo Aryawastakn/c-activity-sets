@@ -24,7 +24,8 @@ int input_array_size()
 }
 
 
-void input_array(int n, int a[n]) {
+void input_array(int n, int a[n]) 
+{
     printf("Enter the array elements: ");
     for (int i = 0; i < n; ++i) 
     {
@@ -37,10 +38,12 @@ int sum_composite_numbers(int n, int a[n])
 {
     int sum = 0;
 
-    for (int i = 0; i < n; ++i) {
+    for (int i = 0; i < n; ++i) 
+    {
         int currentNumber = a[i];
 
-        if (currentNumber > 1) {
+        if (currentNumber > 1) 
+        {
 
             for (int j = 2; j <= currentNumber / 2; ++j) 
             {
